@@ -25,7 +25,7 @@ categories: aws ml exam-prep
 - Feature engineering (binning, encoding, dimensionality reduction)
 - Data visualization and analysis
 
-### Domain 3: Modeling (36%) 
+### Domain 3: Modeling (36%) - BIGGEST SECTION
 - Frame business problems as ML problems
 - Select appropriate models (XGBoost, CNNs, RNNs, etc.)
 - Train and evaluate models
@@ -35,4 +35,3 @@ categories: aws ml exam-prep
 - Build scalable, secure ML solutions
 - Deploy and operationalize models
 - Monitor and troubleshoot ML systems
-
