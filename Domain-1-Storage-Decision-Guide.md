@@ -1,4 +1,10 @@
 ---
+layout: default
+title: "AWS ML Storage Decision Guide"
+description: "Study guide for AWS Machine Learning Specialty certification"
+---
+
+---
 
 ## IOPS vs Throughput
 
