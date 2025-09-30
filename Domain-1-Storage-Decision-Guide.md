@@ -5,6 +5,12 @@ description: "Study guide for AWS Machine Learning Specialty certification"
 ---
 
 ---
+layout: default
+title: "AWS ML Storage Decision Guide"
+description: "Study guide for AWS Machine Learning Specialty certification"
+---
+
+---
 
 ## IOPS vs Throughput
 
@@ -461,4 +467,5 @@ For machine learning on AWS:
 ### Practice More
 - [AWS Certified Machine Learning Specialty Exam Guide](https://aws.amazon.com/certification/certified-machine-learning-specialty/)
 - [AWS Skill Builder](https://skillbuilder.aws/)
+
 
